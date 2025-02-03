@@ -2,7 +2,6 @@
 - 👀 I’m interested in new things
 - 🌱 I’m currently learning to code and getting around this platform/website?
 - 💞️ I’m looking to collaborate with fellow people
-- 📫 How to reach me @joncenazolina13@gmail.com 
 - 😄 Pronouns: He/Him
 
 <!---
